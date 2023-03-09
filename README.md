@@ -5,44 +5,9 @@ jijj gg
 dd
 hi my name hi dolsa
 
-hi mu pou aai hai
+c
+rfhrufhcr
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-+
 
 
 
