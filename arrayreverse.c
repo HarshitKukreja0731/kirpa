@@ -5,7 +5,11 @@ int main()
 
     scanf("%d",&n);
     int arr[n];
+<<<<<<< HEAD
     printf("this program reverses the array");
+=======
+    printf("hey! this this the array reversel program");
+>>>>>>> d0c7c48 (changes done from u)
     for(i=n;i>0;i--){
 
 
